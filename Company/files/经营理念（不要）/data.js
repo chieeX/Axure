@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"经营理念（不要）.html",
-  "generationDate":new Date(1502156125806.7),
+  "generationDate":new Date(1502265301707.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

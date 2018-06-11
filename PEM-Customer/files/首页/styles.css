@@ -508,6 +508,14 @@
   width:1496px;
   word-wrap:break-word;
 }
+#u31_ann {
+  border-width:0px;
+  position:absolute;
+  left:1493px;
+  top:146px;
+  width:1px;
+  height:1px;
+}
 #u33 {
   border-width:0px;
   position:absolute;
@@ -550,6 +558,14 @@
   width:825px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u34_ann {
+  border-width:0px;
+  position:absolute;
+  left:1158px;
+  top:213px;
+  width:1px;
+  height:1px;
 }
 #u36 {
   position:absolute;

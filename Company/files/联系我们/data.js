@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"联系我们.html",
-  "generationDate":new Date(1502156128437.85),
+  "generationDate":new Date(1502265307127.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

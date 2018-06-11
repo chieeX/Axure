@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"招商加盟.html",
-  "generationDate":new Date(1502156128569.86),
+  "generationDate":new Date(1502265307273.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

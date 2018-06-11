@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"总裁致辞.html",
-  "generationDate":new Date(1502156126503.74),
+  "generationDate":new Date(1502265302465.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
